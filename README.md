@@ -1,0 +1,2 @@
+# MatrixDet
+Веб-приложение для ввода квадратной матрицы произвольного размера (от 2×2 до 10×10) с последующим вычислением её определителя на сервере. Frontend: HTML, CSS, JavaScript  Backend: Python, FastAPI  Data validation: Pydantic
